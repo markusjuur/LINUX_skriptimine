@@ -12,3 +12,12 @@ mkdir skriptimine
 
 c) sisene andtud kausta 
 cd skriptimine
+
+d) tekita lokaalne repositoorium git süsteemi jaoks antud kaustas git init
+
+remote seadistamine:
+e) git remote add nimi github:aadress
+git remote add skriptimine git@github.com:kasutajanimi/reponimi.gut
+
+f) git remote controll
+git remote -v
